@@ -1,0 +1,18 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url:https://www.vecteezy.com/photo/48028847-padauk-wood-grain-has-a-distinctive-rich-texture-with-vibrant-color-variations
+
+Texture 2 source url:https://www.vecteezy.com/photo/43419819-cobbled-stone-pavement-texture
+
+Texture 3 source url: https://www.pexels.com/photo/metal-rust-texture-wall-27901403/
+
+3D model source url: https://assetstore.unity.com/packages/3d/characters/animals/free-neko-cat-cute-pro-series-362428
+
+3D model 2 source url: https://assetstore.unity.com/packages/3d/characters/humanoids/bandit-185326
+
